@@ -1,0 +1,15 @@
+{
+  "name": "backendyoutubeclone",
+  "version": "1.0.0",
+  "description": "A similler backend project like YouTube but some additinal features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Prashant Bajak",
+  "license": "ISC"
+}
