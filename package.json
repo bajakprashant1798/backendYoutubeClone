@@ -2,14 +2,18 @@
   "name": "backendyoutubeclone",
   "version": "1.0.0",
   "description": "A similler backend project like YouTube but some additinal features",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "javascript",
     "backend"
   ],
   "author": "Prashant Bajak",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
